@@ -1,80 +1,86 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Kumar</h1>
-<h3 align="center">Aspiring Software Engineer | Full Stack Developer | DSA Enthusiast</h3>
+<h3 align="center">🚀 Aspiring Software Engineer | Full Stack Developer | DSA Enthusiast</h3>
+
+<p align="center">
+  <a href="https://github.com/dhirajkumar62">
+    <img src="https://komarev.com/ghpvc/?username=dhirajkumar62&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+</p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-* 🎓 B.Tech CSE Student at **Lovely Professional University (CGPA: 7.23)**
-* 💻 Strong in **Data Structures & Algorithms (200+ LeetCode problems)**
-* 🌱 Skilled in **Full Stack Development (MERN + PHP)**
-* 🔍 Passionate about **building scalable systems & solving real-world problems**
-
----
-
-### 🛠️ Tech Stack
-
-#### 💻 Programming Languages
-
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=java)
-![C](https://img.shields.io/badge/C-grey?style=for-the-badge\&logo=c)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge\&logo=mysql)
-
-#### 🌐 Web & Frameworks
-
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge\&logo=tailwind-css)
-![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge\&logo=php)
-
-#### ⚙️ Tools
-
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge\&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge\&logo=visualstudiocode)
+🎓 B.Tech CSE @ **Lovely Professional University** (CGPA: 7.23)  
+💡 Solved **200+ DSA problems on LeetCode**  
+💻 Full Stack Developer specializing in **MERN Stack + PHP**  
+⚡ Passionate about **scalable systems, real-time apps & clean architecture**  
 
 ---
 
-### 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-#### 🔐 SEAP – Secure Exam Authentication Platform
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,js" />
+</p>
 
-* Built an **Aadhaar-enabled authentication system** improving data accuracy by 20%
-* Developed **QR-based encrypted hall ticket system** for secure verification
-* Reduced manual errors by 15% through workflow automation
-  **Tech Stack:** HTML, CSS, JavaScript, MySQL, PHP
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🛠 Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+</p>
+
+### ☁️ Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
+</p>
 
 ---
 
-#### 📊 Real-Time Process Management Dashboard
+## 🚀 Featured Projects
 
-* Developed a **real-time system monitoring dashboard** (CPU, memory, processes)
-* Implemented **WebSocket-based live updates & alert system**
-* Improved system monitoring efficiency and reduced downtime impact
-  **Tech Stack:** React.js, Node.js, Express.js, Tailwind CSS, Chart.js
+### 🔐 SEAP – Secure Exam Authentication Platform
+- 🔒 Aadhaar-enabled authentication system improving accuracy by **20%**
+- 📱 QR-based encrypted hall ticket system for secure verification  
+- ⚡ Reduced manual errors by **15%** through workflow automation  
+
+**Tech Stack:** HTML, CSS, JavaScript, MySQL, PHP  
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Real-Time Process Management Dashboard
+- 📡 Real-time monitoring of CPU, memory & processes  
+- 🔄 WebSocket-based live updates & alert system  
+- 📉 Improved monitoring efficiency & reduced downtime  
+
+**Tech Stack:** React.js, Node.js, Express.js, Tailwind CSS, Chart.js  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhirajkumar62&show_icons=true&theme=tokyonight" />
 </p>
 
----
-
-### 🔥 Streak Stats
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajkumar62&theme=tokyonight" />
 </p>
-
----
-
-### 📌 Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajkumar62&layout=compact&theme=tokyonight" />
@@ -82,24 +88,30 @@
 
 ---
 
-### 🏆 Achievements
+## 🏆 Achievements
 
-* 🚀 Solved **200+ problems on LeetCode**
-* 🧠 Strong foundation in **OOP & Dynamic Programming**
-* 🤝 Participated in **Hackathons & Cybersecurity Seminars**
-
----
-
-### 📜 Certifications
-
-* ☁️ Cloud Computing – NPTEL
-* 🌐 Responsive Web Design – FreeCodeCamp
-* 💻 DSA & OOP – iamneo
-* 🧠 Soft Skills – Infosys
+🏅 Solved **200+ problems on LeetCode**  
+🧠 Strong in **OOP, DSA & Problem Solving**  
+🤝 Participated in **Hackathons & Tech Events**  
 
 ---
 
-### 📫 Connect With Me
+## 📜 Certifications
 
-* 🔗 LinkedIn: https://www.linkedin.com/in/dhirajkumar62/
-* 📧 Email: [dhiraj.kumar06281@gmail.com](mailto:dhiraj.kumar06281@gmail.com)
+✔ Cloud Computing – NPTEL  
+✔ Responsive Web Design – FreeCodeCamp  
+✔ DSA & OOP – iamneo  
+✔ Soft Skills – Infosys  
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhirajkumar62/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:dhiraj.kumar06281@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
