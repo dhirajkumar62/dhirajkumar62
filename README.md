@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-🎓 B.Tech CSE @ **Lovely Professional University** (CGPA: 7.23)  
+🎓 B.Tech CSE @ **Lovely Professional University** (CGPA: 7.29)  
 💡 Solved **200+ DSA problems on LeetCode**  
 💻 Full Stack Developer specializing in **MERN Stack + PHP**  
 ⚡ Passionate about **scalable systems, real-time apps & clean architecture**  
