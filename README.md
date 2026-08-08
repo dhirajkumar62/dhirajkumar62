@@ -1,6 +1,4 @@
----
-
-## 🚀 About Me
+# 🚀 About Me
 
 🎓 B.Tech CSE @ **Lovely Professional University** | CGPA: **7.54**
 
@@ -14,7 +12,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Languages
 
@@ -69,69 +67,69 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🤖 CareerMinds – AI Career Guidance Platform
+## 🤖 CareerMinds – AI Career Guidance Platform
 
-- 🧠 Engineered an AI-powered career guidance platform that analyzes user skills and interests to recommend personalized career paths
-- 📚 Implemented personalized learning roadmaps and a real-time AI mentor using **Google Gemini API**
-- 📄 Automated AI-driven resume and portfolio generation
-- 🔐 Implemented secure **JWT authentication**
-- 📈 Improved engagement by **28%**, career guidance effectiveness by **24%**, and productivity by **20%**
+- 🧠 Engineered an AI-powered career guidance platform that analyzes user skills and interests to recommend personalized career paths.
+- 📚 Implemented personalized learning roadmaps and a real-time AI mentor using **Google Gemini API**.
+- 📄 Automated AI-driven resume and portfolio generation.
+- 🔐 Implemented secure **JWT authentication**.
+- 📈 Improved engagement by **28%**, career guidance effectiveness by **24%**, and productivity by **20%**.
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Google Gemini API, JWT Authentication
 
 ---
 
-### 📋 Project Management Tool
+## 📋 Project Management Tool
 
-- 🤝 Created a collaborative project management platform for task planning and team coordination
-- 🔐 Integrated **role-based access control**
-- 📌 Implemented task assignment, deadline management and activity tracking
-- ⚙️ Designed scalable RESTful APIs with MongoDB integration
-- 📈 Improved workflow transparency by **27%** and reduced coordination effort by **23%**
+- 🤝 Created a collaborative project management platform for task planning and team coordination.
+- 🔐 Integrated **role-based access control**.
+- 📌 Implemented task assignment, deadline management and activity tracking.
+- ⚙️ Designed scalable RESTful APIs with MongoDB integration.
+- 📈 Improved workflow transparency by **27%** and reduced coordination effort by **23%**.
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT Authentication, REST API
 
 ---
 
-### 🔐 SEAP – Secure Exam Authentication Platform
+## 🔐 SEAP – Secure Exam Authentication Platform
 
-- 🔒 Engineered an Aadhaar-enabled registration framework for secure identity verification
-- 📱 Implemented encrypted **QR-based hall-ticket generation and validation**
-- 🛡️ Strengthened authentication security by **25%**
-- ⚡ Reduced manual validation errors by **15%**
-- 📈 Increased enrollment accuracy by **20%**
+- 🔒 Engineered an Aadhaar-enabled registration framework for secure identity verification.
+- 📱 Implemented encrypted **QR-based hall-ticket generation and validation**.
+- 🛡️ Strengthened authentication security by **25%**.
+- ⚡ Reduced manual validation errors by **15%**.
+- 📈 Increased enrollment accuracy by **20%**.
 
 **Tech Stack:** HTML, CSS, JavaScript, MySQL, PHP
 
 ---
 
-## 💼 Training
+# 💼 Training
 
-### Front-End Software Engineering Virtual Experience – Skyscanner
+## Front-End Software Engineering Virtual Experience – Skyscanner
 
-- Completed Skyscanner's Front-End Software Engineering Virtual Experience Program
-- Built a travel date-picker interface using **Backpack React components**
-- Validated application functionality through automated testing
+- Completed Skyscanner's Front-End Software Engineering Virtual Experience Program.
+- Built a travel date-picker interface using **Backpack React components**.
+- Validated application functionality through automated testing.
 
 **Certificate:** July 2026
 
 ---
 
-## 🏆 Achievements & Activities
+# 🏆 Achievements & Activities
 
-🏅 Participated in a **Hackathon** and collaborated with a team to solve real-world problems
+🏅 Participated in a **Hackathon** and collaborated with a team to solve real-world problems.
 
-🔐 Attended a **Cybersecurity Seminar** focused on modern threat prevention techniques
+🔐 Attended a **Cybersecurity Seminar** focused on modern threat prevention techniques.
 
-🤝 Completed a **Soft Skills Development Workshop** to strengthen communication and teamwork
+🤝 Completed a **Soft Skills Development Workshop** to strengthen communication and teamwork.
 
-🧠 Strong problem-solving and decision-making abilities
+🧠 Strong problem-solving and decision-making abilities.
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
 ✔ **Oracle Certified Foundations Associate** — Oracle | March 2026
 
@@ -141,9 +139,9 @@
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
-### Lovely Professional University
+## Lovely Professional University
 
 **Bachelor of Technology — Computer Science and Engineering**
 
@@ -152,7 +150,9 @@
 📍 Phagwara, Punjab  
 📅 Since August 2023
 
-### Manjhi Inter College
+---
+
+## Manjhi Inter College
 
 **Intermediate**
 
@@ -161,7 +161,9 @@
 📍 Manjhi, Bihar  
 📅 2022–2023
 
-### Vivekanand International Public School
+---
+
+## Vivekanand International Public School
 
 **Matriculation**
 
@@ -172,16 +174,14 @@
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-💼 **LinkedIn:** dhirajkumar
+💼 **LinkedIn:** [dhirajkumar](https://www.linkedin.com/in/dhirajkumar)
 
-💻 **GitHub:** dhirajkumar
+💻 **GitHub:** [dhirajkumar](https://github.com/dhirajkumar)
 
-📧 **Email:** dhiraj.kumar06281@gmail.com
+📧 **Email:** [dhiraj.kumar06281@gmail.com](mailto:dhiraj.kumar06281@gmail.com)
 
 📱 **Mobile:** +91-6201318374
 
 📍 **Phagwara, Punjab, India**
-
----
