@@ -3,10 +3,10 @@
 ### 💻 Full Stack Developer | AI Enthusiast | Problem Solver
 
 <p align="left">
-  <a href="https://github.com/dhirajkumar">
+  <a href="https://github.com/dhirajkumar62">
     <img src="https://img.shields.io/badge/GitHub-dhirajkumar-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/dhirajkumar">
+  <a href="https://www.linkedin.com/in/dhirajkumar62">
     <img src="https://img.shields.io/badge/LinkedIn-dhirajkumar-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:dhiraj.kumar06281@gmail.com">
