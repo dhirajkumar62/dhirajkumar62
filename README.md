@@ -1,117 +1,187 @@
-<h1 align="center">Hi 👋, I'm Dhiraj Kumar</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | Full Stack Developer | DSA Enthusiast</h3>
-
-<p align="center">
-  <a href="https://github.com/dhirajkumar62">
-    <img src="https://komarev.com/ghpvc/?username=dhirajkumar62&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
 
-🎓 B.Tech CSE @ **Lovely Professional University** (CGPA: 7.51)  
-💡 Solved **200+ DSA problems on LeetCode**  
-💻 Full Stack Developer specializing in **MERN Stack + PHP**  
-⚡ Passionate about **scalable systems, real-time apps & clean architecture**  
+🎓 B.Tech CSE @ **Lovely Professional University** | CGPA: **7.54**
+
+💻 **Full Stack Developer** skilled in React.js, Node.js, Express.js, PHP and REST APIs
+
+🧠 Strong foundation in **Java, C++, JavaScript, SQL and Problem Solving**
+
+⚡ Passionate about building **AI-powered applications, scalable web platforms and secure full-stack solutions**
+
+🚀 Experienced in developing applications using **React.js, Node.js, Express.js, MongoDB, MySQL, JWT Authentication and Google Gemini API**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,js" />
-</p>
+
+- Java
+- C++
+- JavaScript
+- SQL
+- PHP
 
 ### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
-</p>
+
+- React.js
+- Tailwind CSS
+- HTML
+- CSS
 
 ### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
-</p>
+
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
 
 ### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
 
-### 🛠 Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
-</p>
+- MongoDB
+- MySQL
 
-### ☁️ Deployment
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
-</p>
+### 🛠️ Tools & Technologies
+
+- Git
+- GitHub
+- Docker
+- Linux
+- Postman
+- CI/CD
+- GitHub Actions
+
+### ☁️ Cloud & DevOps
+
+- AWS
+- Docker
+- Linux
+- CI/CD
+- GitHub Actions
+
+### 🤖 AI
+
+- Google Gemini API
+- AI Integration
+- AI-powered Applications
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🤖 CareerMinds – AI Career Guidance Platform
+
+- 🧠 Engineered an AI-powered career guidance platform that analyzes user skills and interests to recommend personalized career paths
+- 📚 Implemented personalized learning roadmaps and a real-time AI mentor using **Google Gemini API**
+- 📄 Automated AI-driven resume and portfolio generation
+- 🔐 Implemented secure **JWT authentication**
+- 📈 Improved engagement by **28%**, career guidance effectiveness by **24%**, and productivity by **20%**
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Google Gemini API, JWT Authentication
+
+---
+
+### 📋 Project Management Tool
+
+- 🤝 Created a collaborative project management platform for task planning and team coordination
+- 🔐 Integrated **role-based access control**
+- 📌 Implemented task assignment, deadline management and activity tracking
+- ⚙️ Designed scalable RESTful APIs with MongoDB integration
+- 📈 Improved workflow transparency by **27%** and reduced coordination effort by **23%**
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT Authentication, REST API
+
+---
+
 ### 🔐 SEAP – Secure Exam Authentication Platform
-- 🔒 Aadhaar-enabled authentication system improving accuracy by **20%**
-- 📱 QR-based encrypted hall ticket system for secure verification  
-- ⚡ Reduced manual errors by **15%** through workflow automation  
 
-**Tech Stack:** HTML, CSS, JavaScript, MySQL, PHP  
+- 🔒 Engineered an Aadhaar-enabled registration framework for secure identity verification
+- 📱 Implemented encrypted **QR-based hall-ticket generation and validation**
+- 🛡️ Strengthened authentication security by **25%**
+- ⚡ Reduced manual validation errors by **15%**
+- 📈 Increased enrollment accuracy by **20%**
 
----
-
-### 📊 Real-Time Process Management Dashboard
-- 📡 Real-time monitoring of CPU, memory & processes  
-- 🔄 WebSocket-based live updates & alert system  
-- 📉 Improved monitoring efficiency & reduced downtime  
-
-**Tech Stack:** React.js, Node.js, Express.js, Tailwind CSS, Chart.js  
+**Tech Stack:** HTML, CSS, JavaScript, MySQL, PHP
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Training
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhirajkumar62&show_icons=true&theme=tokyonight" />
-</p>
+### Front-End Software Engineering Virtual Experience – Skyscanner
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajkumar62&theme=tokyonight" />
-</p>
+- Completed Skyscanner's Front-End Software Engineering Virtual Experience Program
+- Built a travel date-picker interface using **Backpack React components**
+- Validated application functionality through automated testing
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajkumar62&layout=compact&theme=tokyonight" />
-</p>
+**Certificate:** July 2026
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Activities
 
-🏅 Solved **200+ problems on LeetCode**  
-🧠 Strong in **OOP, DSA & Problem Solving**  
-🤝 Participated in **Hackathons & Tech Events**  
+🏅 Participated in a **Hackathon** and collaborated with a team to solve real-world problems
+
+🔐 Attended a **Cybersecurity Seminar** focused on modern threat prevention techniques
+
+🤝 Completed a **Soft Skills Development Workshop** to strengthen communication and teamwork
+
+🧠 Strong problem-solving and decision-making abilities
 
 ---
 
 ## 📜 Certifications
 
-✔ Cloud Computing – NPTEL  
-✔ Responsive Web Design – FreeCodeCamp  
-✔ DSA & OOP – iamneo  
-✔ Soft Skills – Infosys  
+✔ **Oracle Certified Foundations Associate** — Oracle | March 2026
+
+✔ **Cloud Computing** — NPTEL | May 2025
+
+✔ **Data Structures and Algorithms** — iamneo | December 2024
+
+---
+
+## 🎓 Education
+
+### Lovely Professional University
+
+**Bachelor of Technology — Computer Science and Engineering**
+
+📊 CGPA: **7.54**
+
+📍 Phagwara, Punjab  
+📅 Since August 2023
+
+### Manjhi Inter College
+
+**Intermediate**
+
+📊 Percentage: **70.6%**
+
+📍 Manjhi, Bihar  
+📅 2022–2023
+
+### Vivekanand International Public School
+
+**Matriculation**
+
+📊 Percentage: **57.6%**
+
+📍 Saran, Bihar  
+📅 2020–2021
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dhirajkumar62/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:dhiraj.kumar06281@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+💼 **LinkedIn:** dhirajkumar
+
+💻 **GitHub:** dhirajkumar
+
+📧 **Email:** dhiraj.kumar06281@gmail.com
+
+📱 **Mobile:** +91-6201318374
+
+📍 **Phagwara, Punjab, India**
+
+---
